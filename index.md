@@ -76,15 +76,20 @@ function test() {
 console.log("look ma`, no spaces");
 }
 ```
+
 <!-- Example for Quote -->
 As Kanye West said:
 > We're living the future so
-> the present is our past.
+> the present is our past.  
+
+
 <!-- Example for Bullet List -->
 * Item 1
 * Item 2
 * Item 2a
-* Item 2b
+* Item 2b  
+
+
 <!-- Example for Numbered List -->
 1. German Shepherd  
 2. Belgian Shepherd  

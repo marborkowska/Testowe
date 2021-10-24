@@ -46,7 +46,8 @@ This is **bold** text.
 <!-- Example for Italic  -->
 This is *italic* text.  
 
-<!-- Example for Links -->
+<!-- Example for Links -->  
+
 [Link](https://www.onet.pl/)  
 
 [Pogoda](http://meteo.pl)  

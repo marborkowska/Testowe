@@ -56,7 +56,11 @@ Basset to uparty **pies myśliwski**, ale zarazem przyjazny członek rodziny. Po
 <!-- Example for inline code -->
 
 <!-- A block of code -->
-
+```javascript
+function test() {
+console.log("look ma`, no spaces");
+}
+```
 <!-- Example for Quote -->
 As Kanye West said:
 > We're living the future so

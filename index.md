@@ -86,12 +86,12 @@ As Kanye West said:
 2.2. Groenendael  
 2.3. Tervuren  
 
-<!-- Example for Tables -->
+<!-- Example for Tables -->  
 
 Psy myśliwskie | Psy obronne
 ------------ | -------------
 Basset hound | Owczarek niemiecki
-Ogar polski | Doberman
+Ogar polski | Doberman  
 
 <!-- Paragraph after table -->
 W tabeli powyżej pokazano różne rasy psów.

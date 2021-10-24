@@ -5,6 +5,13 @@ This is second sample.
 Markdown testing
 ================
 <!-- Here comes the TOC -->
+- [Markdown testing](#markdown-testing)
+- [**Psy**](#psy)
+  - [**Psy myśliwskie**](#psy-myśliwskie)
+    - [*Bassety*](#bassety)
+
+
+
 
 <!-- Example of paragraph of text -->
 It's a beautiful morning, ah  

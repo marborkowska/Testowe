@@ -73,8 +73,9 @@ As Kanye West said:
 * Item 3a
 * Item 3b
 <!-- Example for Tables -->
-First Header | Second Header
+Psy myśliwskie | Psy obronne
 ------------ | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
+Basset hound | Owczarek niemiecki
+Ogar polski | Doberman
 <!-- Paragraph after table -->
+W tabeli powyżej pokazano różne rasy psów.

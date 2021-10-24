@@ -71,11 +71,11 @@ As Kanye West said:
 * Item 2a
 * Item 2b
 <!-- Example for Numbered List -->
-1.1. German Shepherd  
-1.2  Belgian Shepherd  
-.. Malinois  
-.. Groenendael  
-.. Tervuren  
+1. German Shepherd  
+2. Belgian Shepherd  
+2.1. Malinois  
+2.2. Groenendael  
+2.3. Tervuren  
 
 <!-- Example for Tables -->
 Psy myśliwskie | Psy obronne

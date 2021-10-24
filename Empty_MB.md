@@ -2,11 +2,11 @@
 This is sample text.  
 This is second sample.  
 <!-- Example for title -->
+<!-- omit in toc -->
 Markdown testing
 ================
 <!-- Here comes the TOC -->
 Spis treści
-- [Markdown testing](#markdown-testing)
 - [**Psy**](#psy)
   - [**Psy myśliwskie**](#psy-myśliwskie)
     - [*Bassety*](#bassety)
@@ -85,9 +85,10 @@ As Kanye West said:
 2.3. Tervuren  
 
 <!-- Example for Tables -->
-Psy myśliwskie | Psy obronne
------------- | -------------
-Basset hound | Owczarek niemiecki
-Ogar polski | Doberman
+| Psy myśliwskie | Psy obronne        |
+| -------------- | ------------------ |
+| Basset hound   | Owczarek niemiecki |
+| Ogar polski    | Doberman           |
+
 <!-- Paragraph after table -->
 W tabeli powyżej pokazano różne rasy psów.

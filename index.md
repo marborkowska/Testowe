@@ -2,6 +2,7 @@
 This is sample text.  
 This is second sample.  
 <!-- Example for title -->
+<!-- omit in toc -->
 Markdown testing
 ================
 <!-- Here comes the TOC -->

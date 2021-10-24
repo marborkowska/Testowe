@@ -5,11 +5,11 @@ This is second sample.
 Markdown testing
 ================
 <!-- Here comes the TOC -->
+Spis treści
 - [Markdown testing](#markdown-testing)
 - [**Psy**](#psy)
   - [**Psy myśliwskie**](#psy-myśliwskie)
     - [*Bassety*](#bassety)
-
 
 
 

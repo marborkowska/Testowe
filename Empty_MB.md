@@ -75,9 +75,9 @@ As Kanye West said:
 2. Item 2
 3. Item 3
 * Item 3a
-** Item 3b
-** Item 3ba
-** Item 3ba
+* Item 3b
+*   Item 3ba
+*   Item 3ba
 <!-- Example for Tables -->
 Psy myśliwskie | Psy obronne
 ------------ | -------------

@@ -44,7 +44,7 @@ This is *italic* text.
 <!-- Example for linking to another file-->
 
 <!-- Example for Headers -->
-# ***Psy***
+# **Psy**
 Oto rasy psów:
 ## **Psy myśliwskie**
 Psy myśliwskie dzieli się na liczne, mniejsze grupy.

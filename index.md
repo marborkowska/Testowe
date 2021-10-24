@@ -38,14 +38,19 @@ Shouldn't hide
 Still inside  
 Shouldn't hide  
 Still inside, shouldn't hide.  
-Oh, oh, oh
+Oh, oh, oh  
+
 <!-- Example for Bold -->
-This is **bold** text.
+This is **bold** text.  
+
 <!-- Example for Italic  -->
-This is *italic* text.
+This is *italic* text.  
+
 <!-- Example for Links -->
 [Link](https://www.onet.pl/)  
-[Pogoda](http://meteo.pl)
+
+[Pogoda](http://meteo.pl)  
+
 <!-- Example for Images -->
 ![Las](z24715385IH,Las.jpg)
 ![Las](https://ocdn.eu/pulscms-transforms/1/nmWk9kpTURBXy9hNDdkODY5MTQxMjk2NjczYWVlZmRmZTJiMTgzNjhhMi5qcGeTlQMAzJTNEpDNCnGTBc0DFM0BvJMJpjFhYmNmYgaBoTAB/krzywy-las-kolo-gryfina.jpg)
